@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello, I'm Mwangi wa Chege
 
-<!--
-**HenchaDev/HenchaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Picture](https://photos.app.goo.gl/irJiBvMWwa66HSib6) <!-- Replace with your profile picture URL -->
 
-Here are some ideas to get you started:
+I'm an IT student with a passion for technology, cybersecurity, and coding. Here's a little more about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ I use Kali Linux as my primary operating system.
+- 💻 I'm always striving for code perfection and enjoy writing code in its entirety.
+- 🚴‍♂️ I love riding bikes and exploring new places.
+
+## 🔗 Connect with Me
+
+You can find me on:
+
+- [GitHub](https://github.com/HenchaDev)
+- [LinkedIn](https://www.linkedin.com/in/henchadev)
+- [Twitter](https://twitter.com/mac_henry_03)
+
+Feel free to connect with me, explore my projects, and join me on my coding journey. Let's make tech and security exciting together!
+
+---
+
+🌟 Thanks for visiting my GitHub profile. If you like what you see, don't forget to follow!
+
+<!-- You can add more sections or customize it as needed. -->
