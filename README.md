@@ -1,25 +1,56 @@
-### Hello, I'm Mwangi wa Chege
+<!-- Title -->
+<h1 align="center">👋 Hi there, I'm Mwangi wa Chege</h1>
 
-![Profile Picture](https://photos.app.goo.gl/irJiBvMWwa66HSib6) <!-- Replace with your profile picture URL -->
+<!-- Introduction and Profile Picture -->
+<p align="center">
+  I'm an IT student with a passion for technology, cybersecurity, and coding.
+</p>
 
-I'm an IT student with a passion for technology, cybersecurity, and coding. Here's a little more about me:
+<p align="center">
+  <img src="url_to_your_profile_picture.png" alt="Profile Picture" />
+</p>
 
-- 🖥️ I use Kali Linux as my primary operating system.
-- 💻 I'm always striving for code perfection and enjoy writing code in its entirety.
-- 🚴‍♂️ I love riding bikes and exploring new places.
+<!-- Sections -->
+## 💼 Professional Background
 
-## 🔗 Connect with Me
+- 🎓 **Education**: Studying IT.
+- 💻 **Operating System**: Using Kali Linux as my primary OS.
+- 🧠 **Coding Philosophy**: Always seeking code perfection, ensuring it's written in full.
 
-You can find me on:
+## 🌐 Connect with Me
 
-- [GitHub](https://github.com/HenchaDev)
-- [LinkedIn](https://www.linkedin.com/in/henchadev)
-- [Twitter](https://twitter.com/mac_henry_03)
+<p align="center">
+  Find me on:
+</p>
 
-Feel free to connect with me, explore my projects, and join me on my coding journey. Let's make tech and security exciting together!
+<p align="center">
+  <a href="https://github.com/HenchaDev">GitHub</a> | <a href="https://www.linkedin.com/in/henchadev">LinkedIn</a> | <a href="https://twitter.com/mac_henry_03">Twitter</a>
+</p>
 
----
+<p align="center">
+  Connect with me and explore my tech journey. Let's make the tech world more exciting together!
+</p>
 
-🌟 Thanks for visiting my GitHub profile. If you like what you see, don't forget to follow!
+## 🚀 My Projects
 
-<!-- You can add more sections or customize it as needed. -->
+- [**Project 1**](link_to_project_1): A brief description.
+- [**Project 2**](link_to_project_2): Another interesting project.
+- [**Project 3**](link_to_project_3): And one more!
+
+## 📚 Currently Learning
+
+I'm constantly expanding my knowledge in:
+
+- 🛡️ **Cybersecurity**
+- 🌐 **Web Development**
+- 📊 **Data Science**
+
+Feel free to reach out if you share similar interests or just want to connect!
+
+## 🌟 Thanks for Visiting
+
+<p align="center">
+  Thank you for stopping by my GitHub profile. If you like what you see, don't forget to follow! Your support is greatly appreciated.
+</p>
+
+<!-- You can further customize the content and styling to your preference. -->
