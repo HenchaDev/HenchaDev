@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="url_to_your_profile_picture.png" alt="Profile Picture" />
+  <img src="profile.png" alt="Profile Picture" />
 </p>
 
 <!-- Sections -->
