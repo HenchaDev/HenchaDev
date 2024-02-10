@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="profile.jpg" alt="Profile Picture" />
+<!--   <img src="profile.jpg" alt="Profile Picture" /> -->
 </p>
 
 <!-- Sections -->
