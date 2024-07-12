@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E98C9&center=true&vCenter=true&width=435&lines=Mwangi+wa+Chege;IT+Student+%7C+Cybersecurity+Enthusiast;Kali+Linux+Aficionado+%7C+Code+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E98C9&center=true&vCenter=true&width=435&lines=Mwangi+wa+Chege;IT+Savanna+Penguin+%7C+CyberPenguin;Kali+Linux+Aficionado+%7C+Code+Craftsman" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ## 💼 Professional Background
 
-- 🎓 **Education**: Diving deep into the world of IT
-- 💻 **Operating System**: Wielding the power of Kali Linux
-- 🧠 **Coding Philosophy**: Crafting elegant solutions, one line at a time
+- 🎓 **Education**: Diving deep into IT Ice Berg just like a Penguin
+- 💻 **Operating System**: Born in the Kernel to Rule the Terminal - Kali Linux
+- 🧠 **Coding Philosophy**: Crafting Icy solutions, one line at a time - Just like a Penguin
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
