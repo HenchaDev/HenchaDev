@@ -84,7 +84,7 @@ Feel free to reach out if you share similar interests or just want to connect!
 
 ---
 
-## 💡 Random Coding Quotes
+## 💡 PAPA-PENGUIN Quotes
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
