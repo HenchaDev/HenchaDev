@@ -47,13 +47,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="link_to_project_1">
+      <a href="https://github.com/HenchaDev/sshms">
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" /><br />
         <sub><b>Project 1</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="link_to_project_2">
+      <a href="https://github.com/HenchaDev/task-tracker">
         <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" /><br />
         <sub><b>Project 2</b></sub>
       </a>
