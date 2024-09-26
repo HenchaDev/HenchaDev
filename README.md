@@ -1,67 +1,58 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100">
-  <br>
-  HENCHA - PAPA PENGUIN
-  <br>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100">
-</h1>
+# <div align="center">🐧 HENCHA - PAPA PENGUIN 🐧</div>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E98C9&center=true&vCenter=true&width=435&lines=Mwangi+wa+Chege;IT+Savanna+Penguin+%7C+CyberPenguin;Kali+Linux+Aficionado+%7C+Code+Craftsman" alt="Typing SVG" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</p>
+</div>
 
 ---
 
 ## 💼 Professional Background
+- 🎓 **Education**: Diving deep into the IT iceberg, penguin-style
+- 💻 **Operating System**: Kali Linux - Born in the kernel to rule the terminal
+- 🧠 **Coding Philosophy**: Crafting icy solutions, one line at a time
 
-- 🎓 **Education**: Diving deep into IT Ice Berg just like a Penguin
-- 💻 **Operating System**: Born in the Kernel to Rule the Terminal - Kali Linux
-- 🧠 **Coding Philosophy**: Crafting Icy solutions, one line at a time - Just like a Penguin
-
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
-</p>
+</div>
 
 ---
 
 ## 🌐 Connect with Me
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/HenchaDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/henchadev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/mac_henry_03"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   Let's join forces and make the tech world more exciting together! 🚀
-</p>
+</div>
 
 ---
 
-## 🚀 My Projects
-
+## 🚀 Featured Projects
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/HenchaDev/sshms">
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" /><br />
-        <sub><b>Project 1</b></sub>
+        <sub><b>SSHMS</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/HenchaDev/task-tracker">
         <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" /><br />
-        <sub><b>Project 2</b></sub>
+        <sub><b>Task Tracker</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="link_to_project_3">
+      <a href="#">
         <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="100" /><br />
-        <sub><b>Project 3</b></sub>
+        <sub><b>Coming Soon</b></sub>
       </a>
     </td>
   </tr>
@@ -70,10 +61,9 @@
 ---
 
 ## 📚 Currently Learning
-
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/3o7btPRCkKqr0RBmDK/giphy.gif" width="200" />
-</p>
+</div>
 
 I'm constantly expanding my knowledge in:
 - 🛡️ **Cybersecurity**: Defending the digital realm
@@ -84,33 +74,26 @@ Feel free to reach out if you share similar interests or just want to connect!
 
 ---
 
-## 💡 PAPA-PENGUIN Quotes
+## 💡 Papa Penguin Wisdom
+> "In the world of code, every bug is just an undiscovered feature."
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
-
-> "Programming isn't about what you know; it's about what you can figure out." - Chris Pine
-
-> "The best error message is the one that never shows up." - Thomas Fuchs
+> "The best penguins don't just swim in the data ocean, they surf it."
 
 ---
 
 ## 🌟 Thanks for Visiting
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Thank you for waddling by my GitHub igloo. If you like what you see, don't forget to follow!</em>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Thank you for stopping by my GitHub profile. If you like what you see, don't forget to follow!</em>
-</p>
-
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=HenchaDev&style=flat-square&color=blue" alt="Profile views">
-</p>
+</div>
 
-<!-- GitHub Stats -->
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HenchaDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
-</p>
+</div>
