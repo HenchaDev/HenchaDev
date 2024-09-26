@@ -1,99 +1,21 @@
-# <div align="center">🐧 PENGUIN 🐧</div>
+# 💫 About Me:
+I just like it when I use Linux.<br> 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E98C9&center=true&vCenter=true&width=435&lines=Mwangi+wa+Chege;IT+Savanna+Penguin+%7C+CyberPenguin;Kali+Linux+Aficionado+%7C+Code+Craftsman" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hen.cha_edits) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henchadev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mac_henry_03) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HenchaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HenchaDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HenchaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💼 Professional Background
-- 🎓 **Education**: Diving deep into the IT iceberg, penguin-style
-- 💻 **Operating System**: Kali Linux - Born in the kernel to rule the terminal
-- 🧠 **Coding Philosophy**: Crafting icy solutions, one line at a time
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=HenchaDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect with Me
-<div align="center">
-  <a href="https://github.com/HenchaDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/henchadev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/mac_henry_03"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</div>
-
-<div align="center">
-  Let's join forces and make the tech world more exciting together! 🚀
-</div>
-
----
-
-## 🚀 Featured Projects
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/HenchaDev/sshms">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" /><br />
-        <sub><b>SSHMS</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/HenchaDev/task-tracker">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" /><br />
-        <sub><b>Task Tracker</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="100" /><br />
-        <sub><b>Coming Soon</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📚 Currently Learning
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btPRCkKqr0RBmDK/giphy.gif" width="200" />
-</div>
-
-I'm constantly expanding my knowledge in:
-- 🛡️ **Cybersecurity**: Defending the digital realm
-- 🌐 **Web Development**: Crafting the future of the internet
-- 📊 **Data Science**: Unraveling the mysteries hidden in data
-
-Feel free to reach out if you share similar interests or just want to connect!
-
----
-
-## 💡 Papa Penguin Wisdom
-> "In the world of code, every bug is just an undiscovered feature."
-
-> "The best penguins don't just swim in the data ocean, they surf it."
-
----
-
-## 🌟 Thanks for Visiting
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Thank you for waddling by my GitHub igloo. If you like what you see, don't forget to follow!</em>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HenchaDev&style=flat-square&color=blue" alt="Profile views">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenchaDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
