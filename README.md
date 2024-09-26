@@ -1,4 +1,4 @@
-# <div align="center">🐧 HENCHA - PAPA PENGUIN 🐧</div>
+# <div align="center">🐧 PENGUIN 🐧</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E98C9&center=true&vCenter=true&width=435&lines=Mwangi+wa+Chege;IT+Savanna+Penguin+%7C+CyberPenguin;Kali+Linux+Aficionado+%7C+Code+Craftsman" alt="Typing SVG" />
