@@ -90,8 +90,8 @@ I once wrote a script that automated my entire morning routine. Now my coffee br
 ---
 
 ### 📫 **Let's Connect:**
-- **Email:** your.email@example.com  
-- **Portfolio:** [Your Portfolio]((https://henry-portfolio-five.vercel.app/))  
+- **Email:** henchaedits01@gmail.com  
+- **Portfolio:** [Your Portfolio](https://henry-portfolio-five.vercel.app/)  
 - **Blog:** [Your Blog](https://yourblog.com)  
 
 ---
@@ -112,5 +112,3 @@ Feel free to explore my repositories, and don't forget to leave a ⭐ if you fin
 **"Code is like humor. When you have to explain it, it’s bad."** – Cory House  
 
 --- 
-
-This README is designed to make your GitHub profile **stand out** and showcase your skills, projects, and personality in the best possible way. Let me know if you want to tweak anything further! 🚀
